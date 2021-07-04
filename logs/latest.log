@@ -1,0 +1,335 @@
+[23:12:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:12:07] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[23:12:08] [Worker-Main-10/INFO]: Loaded 7 recipes
+[23:12:13] [Server thread/INFO]: Starting minecraft server version 1.17
+[23:12:13] [Server thread/INFO]: Loading properties
+[23:12:13] [Server thread/INFO]: Default game type: SURVIVAL
+[23:12:13] [Server thread/INFO]: Generating keypair
+[23:12:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:12:13] [Server thread/INFO]: Using default channel type
+[23:12:15] [Server thread/INFO]: This server is running CraftBukkit version 3168-Bukkit-bc00005 (MC: 1.17) (Implementing API version 1.17-R0.1-SNAPSHOT)
+[23:12:16] [Server thread/INFO]: [Main] Loading Main v1.0-SNAPSHOT
+[23:12:17] [Server thread/INFO]: Preparing level "world"
+[23:12:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:12:18] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:28] [Worker-Main-11/INFO]: Preparing spawn area: 3%
+[23:12:29] [Worker-Main-9/INFO]: Preparing spawn area: 20%
+[23:12:29] [Worker-Main-12/INFO]: Preparing spawn area: 24%
+[23:12:30] [Worker-Main-10/INFO]: Preparing spawn area: 24%
+[23:12:30] [Worker-Main-11/INFO]: Preparing spawn area: 24%
+[23:12:31] [Worker-Main-8/INFO]: Preparing spawn area: 71%
+[23:12:31] [Worker-Main-9/INFO]: Preparing spawn area: 71%
+[23:12:32] [Worker-Main-8/INFO]: Preparing spawn area: 73%
+[23:12:32] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[23:12:33] [Worker-Main-8/INFO]: Preparing spawn area: 84%
+[23:12:33] [Worker-Main-12/INFO]: Preparing spawn area: 86%
+[23:12:34] [Worker-Main-9/INFO]: Preparing spawn area: 88%
+[23:12:34] [Worker-Main-12/INFO]: Preparing spawn area: 97%
+[23:12:35] [Server thread/INFO]: Time elapsed: 17386 ms
+[23:12:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:12:35] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[23:12:35] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[23:12:36] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:36] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:12:37] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:12:38] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[23:12:38] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[23:12:38] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[23:12:39] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[23:12:39] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[23:12:40] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[23:12:40] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[23:12:41] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[23:12:41] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[23:12:42] [Worker-Main-14/INFO]: Preparing spawn area: 40%
+[23:12:42] [Worker-Main-10/INFO]: Preparing spawn area: 69%
+[23:12:43] [Worker-Main-13/INFO]: Preparing spawn area: 69%
+[23:12:43] [Worker-Main-11/INFO]: Preparing spawn area: 74%
+[23:12:44] [Worker-Main-11/INFO]: Preparing spawn area: 78%
+[23:12:44] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[23:12:45] [Worker-Main-13/INFO]: Preparing spawn area: 85%
+[23:12:45] [Worker-Main-14/INFO]: Preparing spawn area: 89%
+[23:12:46] [Worker-Main-9/INFO]: Preparing spawn area: 91%
+[23:12:46] [Worker-Main-14/INFO]: Preparing spawn area: 97%
+[23:12:46] [Server thread/INFO]: Time elapsed: 11652 ms
+[23:12:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:12:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:12:47] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:12:47] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:12:48] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[23:12:48] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[23:12:49] [Worker-Main-12/INFO]: Preparing spawn area: 8%
+[23:12:49] [Worker-Main-11/INFO]: Preparing spawn area: 46%
+[23:12:50] [Worker-Main-9/INFO]: Preparing spawn area: 75%
+[23:12:50] [Worker-Main-12/INFO]: Preparing spawn area: 94%
+[23:12:51] [Server thread/INFO]: Time elapsed: 4294 ms
+[23:12:51] [Server thread/INFO]: [Main] Enabling Main v1.0-SNAPSHOT
+[23:12:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:12:51] [Server thread/INFO]: Done (34.474s)! For help, type "help"
+[23:13:07] [User Authenticator #1/INFO]: UUID of player Cho0118 is aa2505ee-d08b-4d60-af25-973d8b51aa34
+[23:13:08] [Server thread/INFO]: Cho0118[/127.0.0.1:56927] logged in with entity id 250 at ([world]-118.01294367901387, 67.0, 226.95160261224305)
+[23:13:09] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[23:13:09] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[23:13:09] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[23:13:09] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[23:13:09] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/attribute: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/item: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/locatebiome: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/loot: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/perf: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/schedule: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/spectate: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/teammsg: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/tm: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[23:13:09] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[23:13:17] [Server thread/INFO]: Made Cho0118 a server operator
+[23:13:31] [Server thread/INFO]: Cho0118 issued server command: /gamemode creative
+[23:13:31] [Server thread/INFO]: [Cho0118: Set own game mode to Creative Mode]
+[23:13:53] [Server thread/INFO]: Cho0118 issued server command: /¿Ã∏ß∫Ø»Ø §ª§ª
+[23:14:23] [Server thread/INFO]: Cho0118 lost connection: Disconnected
+[23:14:23] [Server thread/INFO]: Cho0118 left the game
+[23:14:24] [User Authenticator #2/INFO]: UUID of player Cho0118 is aa2505ee-d08b-4d60-af25-973d8b51aa34
+[23:14:24] [Server thread/INFO]: Cho0118[/127.0.0.1:56969] logged in with entity id 422 at ([world]-122.17896047776709, 70.2826026549533, 231.23390003545697)
+[23:15:17] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[23:15:17] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[23:15:17] [Server thread/INFO]: [Main] Disabling Main v1.0-SNAPSHOT
+[23:15:17] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[23:15:17] [Server thread/INFO]: Loaded 7 recipes
+[23:15:18] [Server thread/INFO]: [Main] Loading Main v1.0-SNAPSHOT
+[23:15:18] [Server thread/INFO]: [Main] Enabling Main v1.0-SNAPSHOT
+[23:15:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:15:18] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[23:15:27] [Server thread/INFO]: Cho0118 issued server command: /¿Ã∏ß∫Ø»Ø §ª§ª§ª
+[23:15:31] [Server thread/INFO]: <Cho0118> ¿Ã∏ß∫Ø»Ø §ª§ª[m
+[23:16:24] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[23:16:24] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[23:16:24] [Server thread/INFO]: [Main] Disabling Main v1.0-SNAPSHOT
+[23:16:24] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[23:16:24] [Server thread/INFO]: Loaded 7 recipes
+[23:16:25] [Server thread/INFO]: [Main] Loading Main v1.0-SNAPSHOT
+[23:16:25] [Server thread/INFO]: [Main] Enabling Main v1.0-SNAPSHOT
+[23:16:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:16:25] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[23:16:37] [Server thread/INFO]: Cho0118 issued server command: /¿Ã∏ß∫Ø»Ø §ª§ª
+[23:17:20] [Server thread/INFO]: <±∏±∏> !eggname[m
+[23:17:29] [Server thread/INFO]: <±∏±∏> dfs[m
+[23:18:06] [Server thread/INFO]: Cho0118 issued server command: /title Cho0118 title
+[23:18:15] [Server thread/INFO]: Cho0118 issued server command: /title Cho0118 title "æﬂ¿Ã≥ø¡÷æﬂ:
+[23:18:19] [Server thread/INFO]: Cho0118 issued server command: /title Cho0118 title "æﬂ¿Ã≥ø¡÷æﬂ"
+[23:18:19] [Server thread/INFO]: [Cho0118: Showing new title for Cho0118]
+[23:18:29] [Server thread/INFO]: Cho0118 issued server command: /title
+[23:18:34] [Server thread/INFO]: Cho0118 issued server command: /help
+[23:18:43] [Server thread/INFO]: Cho0118 issued server command: /banlist
+[23:18:54] [Server thread/INFO]: Cho0118 issued server command: /ban-ip Cho0118
+[23:18:54] [Server thread/INFO]: [Cho0118: Banned IP 127.0.0.1: Banned by an operator.]
+[23:18:54] [Server thread/INFO]: [Cho0118: This ban affects 1 players: Cho0118]
+[23:18:54] [Server thread/INFO]: Cho0118 lost connection: You have been IP banned from this server
+[23:18:54] [Server thread/INFO]: Cho0118 left the game
+[23:18:57] [User Authenticator #3/INFO]: UUID of player Cho0118 is aa2505ee-d08b-4d60-af25-973d8b51aa34
+[23:18:57] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7ddeae64[id=aa2505ee-d08b-4d60-af25-973d8b51aa34,name=Cho0118,properties={textures=[com.mojang.authlib.properties.Property@6ad9c62b]},legacy=false] (/127.0.0.1:57129): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[23:18:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@7ddeae64[id=aa2505ee-d08b-4d60-af25-973d8b51aa34,name=Cho0118,properties={textures=[com.mojang.authlib.properties.Property@6ad9c62b]},legacy=false] (/127.0.0.1:57129) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[23:19:07] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[23:19:07] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[23:19:07] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[23:19:07] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[23:19:07] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/attribute: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/item: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/locatebiome: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/loot: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/perf: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/schedule: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/spectate: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/teammsg: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/tm: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[23:19:07] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[23:19:22] [Server thread/INFO]: There are 1 bans:
+[23:19:22] [Server thread/INFO]: 127.0.0.1 was banned by Cho0118: Banned by an operator.
+[23:19:59] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[23:20:08] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[23:20:50] [Server thread/INFO]: Nothing changed. The player isn't banned
+[23:20:58] [User Authenticator #4/INFO]: UUID of player Cho0118 is aa2505ee-d08b-4d60-af25-973d8b51aa34
+[23:20:58] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@76baabfd[id=aa2505ee-d08b-4d60-af25-973d8b51aa34,name=Cho0118,properties={textures=[com.mojang.authlib.properties.Property@1fd6cee3]},legacy=false] (/127.0.0.1:60536): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[23:20:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@76baabfd[id=aa2505ee-d08b-4d60-af25-973d8b51aa34,name=Cho0118,properties={textures=[com.mojang.authlib.properties.Property@1fd6cee3]},legacy=false] (/127.0.0.1:60536) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[23:21:06] [User Authenticator #5/INFO]: UUID of player Cho0118 is aa2505ee-d08b-4d60-af25-973d8b51aa34
+[23:21:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6ae70621[id=aa2505ee-d08b-4d60-af25-973d8b51aa34,name=Cho0118,properties={textures=[com.mojang.authlib.properties.Property@23f1f093]},legacy=false] (/127.0.0.1:60541): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[23:21:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ae70621[id=aa2505ee-d08b-4d60-af25-973d8b51aa34,name=Cho0118,properties={textures=[com.mojang.authlib.properties.Property@23f1f093]},legacy=false] (/127.0.0.1:60541) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[23:21:17] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[23:21:27] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[23:21:45] [Server thread/INFO]: Invalid IP address
+[23:21:51] [User Authenticator #6/INFO]: UUID of player Cho0118 is aa2505ee-d08b-4d60-af25-973d8b51aa34
+[23:21:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@120301d7[id=aa2505ee-d08b-4d60-af25-973d8b51aa34,name=Cho0118,properties={textures=[com.mojang.authlib.properties.Property@6e08c154]},legacy=false] (/127.0.0.1:60563): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[23:21:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@120301d7[id=aa2505ee-d08b-4d60-af25-973d8b51aa34,name=Cho0118,properties={textures=[com.mojang.authlib.properties.Property@6e08c154]},legacy=false] (/127.0.0.1:60563) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[23:21:58] [Server thread/INFO]: Unbanned IP 127.0.0.1
+[23:22:02] [User Authenticator #7/INFO]: UUID of player Cho0118 is aa2505ee-d08b-4d60-af25-973d8b51aa34
+[23:22:02] [Server thread/INFO]: Cho0118[/127.0.0.1:60576] logged in with entity id 1024 at ([world]-113.07900784151008, 69.0, 213.70867027545327)
+[23:22:07] [Server thread/INFO]: Cho0118 lost connection: Disconnected
+[23:22:07] [Server thread/INFO]: Cho0118 left the game
